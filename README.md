@@ -59,3 +59,9 @@ For this study, I will aim to compute a variety of descriptive statistics in ord
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ## Results
+
+![Text](nyc.png)
+
+![Text](washington.png)
+
+![Text](chicago.png)
