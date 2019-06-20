@@ -20,11 +20,14 @@ The Chicago and New York City files also have the following two columns:
 - Gender
 - Birth Year
 
-The data comes from 3 csv files:
+The data comes from 3 csv files.
 
-- chicago.csv
-- new_york_city.csv
-- washington.csv
+## Project files
+
+- bikeshare.py : Python command line application to analyse data and generate statistics
+- chicago.csv : csv file with data for chicago
+- new_york_city.csv : csv file with data for new york city
+- washington.csv : csv file with data for washington
 
 ## Study obectives
 
