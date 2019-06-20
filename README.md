@@ -27,9 +27,9 @@ The data comes from 3 csv files.
 ## Project files
 
 - bikeshare.py : Python command line application to analyse data and generate statistics
-- chicago.csv : csv file with data for chicago
-- new_york_city.csv : csv file with data for new york city
-- washington.csv : csv file with data for washington
+- chicago.csv.zip : csv file with data for chicago (compressed)
+- new_york_city.csv.zip : csv file with data for new york city (compressed)
+- washington.csv.zip : csv file with data for washington (compressed)
 
 ## Study obectives
 
