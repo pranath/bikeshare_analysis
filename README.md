@@ -15,6 +15,8 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 - End Station (e.g., Sedgwick St & North Ave)
 - User Type (Subscriber or Customer)
 
+![Text](../master/screenshots/response_app1.png)
+
 The Chicago and New York City files also have the following two columns:
 
 - Gender
@@ -31,26 +33,26 @@ The data comes from 3 csv files.
 
 ## Study obectives
 
-For this stud, I will aim to compute a variety of descriptive statistics in order to give an overview of the usage of the bike share service:
+For this study, I will aim to compute a variety of descriptive statistics in order to give an overview of the usage of the bike share service:
 
-### 1 Popular times of travel (i.e., occurs most often in the start time)
+#### 1. Popular times of travel (i.e., occurs most often in the start time)
 
 - most common month
 - most common day of week
 - most common hour of day
 
-### 2 Popular stations and trip
+#### 2. Popular stations and trip
 
 - most common start station
 - most common end station
 - most common trip from start to end (i.e., most frequent combination of start station and end station)
 
-### 3 Trip duration
+#### 3. Trip duration
 
 - total travel time
 - average travel time
 
-### 4 User info
+#### 4. User info
 
 - counts of each user type
 - counts of each gender (only available for NYC and Chicago)
